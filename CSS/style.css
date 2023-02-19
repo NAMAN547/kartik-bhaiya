@@ -1,0 +1,37 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    color: white;
+    background-color: black;
+
+}
+
+  li {
+
+    background-color: red;
+
+
+}
+
+
+
+header {                /* I.D Selector */
+
+    background-color: red;
+
+    color: white;
+}
+
+
+
+h1, figure, aside{
+
+    background-color: blue;
+
+
+
+}
+
+
+
